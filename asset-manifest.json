@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/repo-name/static/js/main.4d565d22.js",
-    "index.html": "/repo-name/index.html",
-    "main.4d565d22.js.map": "/repo-name/static/js/main.4d565d22.js.map"
+    "main.js": "/To-Do-List-React/static/js/main.4d565d22.js",
+    "index.html": "/To-Do-List-React/index.html",
+    "main.4d565d22.js.map": "/To-Do-List-React/static/js/main.4d565d22.js.map"
   },
   "entrypoints": [
     "static/js/main.4d565d22.js"
